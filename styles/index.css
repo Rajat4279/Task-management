@@ -16,9 +16,3 @@ body {
   z-index: 3;
   width: 100%;
 }
-
-@media (min-width: 760px) {
-  .add__new__btn__mobile__only {
-    display: none;
-  }
-}
